@@ -5,7 +5,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="capslock_source.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -39,8 +39,8 @@
      showgrid="false"
      showborder="false"
      inkscape:zoom="22.474623"
-     inkscape:cx="9.2103881"
-     inkscape:cy="9.9445495"
+     inkscape:cx="5.6953124"
+     inkscape:cy="9.9890441"
      inkscape:current-layer="svg6"
      showguides="true"><sodipodi:guide
        position="2,24"
@@ -152,9 +152,9 @@
      inkscape:label="draw1_fill" /><rect
      style="display:inline;fill:#000000;fill-opacity:1;stroke-width:1.00157"
      id="rect1154"
-     width="13"
+     width="12"
      height="1.9999999"
-     x="5.5"
+     x="6"
      y="22"
      inkscape:label="lock"
      ry="0.61428064" /><path
